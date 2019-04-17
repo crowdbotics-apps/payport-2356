@@ -1,0 +1,3 @@
+rootProject.name = 'payport_2356'
+
+include ':app'
